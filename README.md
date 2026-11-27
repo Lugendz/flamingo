@@ -6,7 +6,7 @@ Flamingo is a work-in-progress fork of [victory-fork](https://github.com/fxceles
 which is itself a fork of [VIctory](https://github.com/Marvisak/VIctory). VIctory is a
 compatibility layer that runs an Xbox Series title natively on Windows from files you supply.
 Flamingo is tuned for one freshly released open-world Xbox Series title, run from a dump of your
-own legally obtained copy, on an NVIDIA RTX 4070.
+own legally obtained copy, on an NVIDIA RTX 4070. Fork itself is mainly tuned for NVIDIA cards.
 
 **This repository contains no game files, code or assets.** You need your own copy. Flamingo is
 not affiliated with or endorsed by any game's developer or publisher, or by Microsoft.
